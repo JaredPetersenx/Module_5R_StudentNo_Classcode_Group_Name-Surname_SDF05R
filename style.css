@@ -59,5 +59,22 @@ p {
     background-colour: black
     colour: #000;
 }
+.btn-2: {
+    background-colour: red;
+    colour: white;
+    border: none;
+}
+.btn-2:hover { 
+    background-colour: blue
+}
+ .btn-3: { 
+     backgrounf-colour: yellow;
+     colour: green;
+     border: white;
+ }
+.btn-3: hover {
+    background-colour: brown
+
+    
 
 /* Add your custom styles for btn-1, btn-2, and btn-3 */
